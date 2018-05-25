@@ -1,0 +1,13 @@
+C:\Source\Repos\Cognitive-Vision-Windows\Sample-WPF\bin\Debug\VisionAPI-WPF-Samples.exe.config
+C:\Source\Repos\Cognitive-Vision-Windows\Sample-WPF\obj\Debug\VisionAPI-WPF-Samples.csprojResolveAssemblyReference.cache
+C:\Source\Repos\Cognitive-Vision-Windows\Sample-WPF\obj\Debug\AnalyzeInDomainPage.g.cs
+C:\Source\Repos\Cognitive-Vision-Windows\Sample-WPF\obj\Debug\HandwritingRecognitionPage.g.cs
+C:\Source\Repos\Cognitive-Vision-Windows\Sample-WPF\obj\Debug\TagsPage.g.cs
+C:\Source\Repos\Cognitive-Vision-Windows\Sample-WPF\obj\Debug\ThumbnailPage.g.cs
+C:\Source\Repos\Cognitive-Vision-Windows\Sample-WPF\obj\Debug\OCRPage.g.cs
+C:\Source\Repos\Cognitive-Vision-Windows\Sample-WPF\obj\Debug\DescribePage.g.cs
+C:\Source\Repos\Cognitive-Vision-Windows\Sample-WPF\obj\Debug\AnalyzePage.g.cs
+C:\Source\Repos\Cognitive-Vision-Windows\Sample-WPF\obj\Debug\App.g.cs
+C:\Source\Repos\Cognitive-Vision-Windows\Sample-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Source\Repos\Cognitive-Vision-Windows\Sample-WPF\obj\Debug\VisionAPI-WPF-Samples_MarkupCompile.cache
+C:\Source\Repos\Cognitive-Vision-Windows\Sample-WPF\obj\Debug\VisionAPI-WPF-Samples_MarkupCompile.lref
